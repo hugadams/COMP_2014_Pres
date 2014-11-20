@@ -36,12 +36,12 @@ With
 
 
    .. _`pyuvvis` : https://github.com/hugadams/pyuvvis
-   .. _`NBCONFIG` : http://nbviewer.ipython.org/urls/raw.github.com/hugadams/COMP_2014_Pres/master/NBCONFIG.ipynb
+   .. _`NBCONFIG.ipynb` : http://nbviewer.ipython.org/urls/raw.github.com/hugadams/COMP_2014_Pres/master/NBCONFIG.ipynb
 
 About the Author
 ================
 
-I'm a PhD student at GWU.  Check me out on researchgate_, Linkedin_ or twitter_(@hughesadam87).
+I'm a PhD student at GWU.  Check me out on researchgate_, Linkedin_ or twitter_ (@hughesadam87).
 
    .. _researchgate : https://www.researchgate.net/profile/Adam_Hughes2/?ev=hdr_xprf
    .. _Linkedin : http://www.linkedin.com/profile/view?id=121484744&goback=%2Enmp_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1&trk=spm_pic
